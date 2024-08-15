@@ -7,6 +7,7 @@ public class add1
 		float num2=10,sum=0;
 	     sum=num1+num2;
 		System.out.println("Sum of Two numbers is="+sum);
+		System.out.println("Webhook from jenkins succesfull");
 	}
 }
 
