@@ -14,7 +14,6 @@ public class add2
 	sum=num1+num2;
      System.out.println("Sum of two numbers:"+sum);
 	 System.out.println("hello there");
-	  System.out.println("Webhook testing Succesfull");
 
   }
 }
